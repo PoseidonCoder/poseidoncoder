@@ -1,4 +1,4 @@
-## teen nerd and open source enthusiast.
+## full-stack teen nerd and open source enthusiast.
 
 ***I'm currently working on*** a lot of different things. One of the most notable of them is Heron, a *powerful CSS preprossessor*. I've worked on it a lot but I still have no pull requests 😕.
 
