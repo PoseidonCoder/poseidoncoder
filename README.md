@@ -4,6 +4,6 @@
 
 ***I'm currently learning*** how to create a language server in VScode for my [CookeyLang Extension](https://github.com/PoseidonCoder/CookeyLangVScodeExtension)
 
-![](https://github-readme-stats.vercel.app/api?username=poseidoncoder&theme=dracula)
+![](https://github-profile-trophy.vercel.app/?username=poseidoncoder&theme=dracula)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=poseidoncoder&theme=dracula)
