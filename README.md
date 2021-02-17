@@ -9,4 +9,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=poseidoncoder&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=poseidoncoder&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=poseidoncoder&theme=dracula&layout=compact)
