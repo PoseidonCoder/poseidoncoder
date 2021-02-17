@@ -5,6 +5,7 @@
 ## 🥅 goals for 2021
 
 * contribute to more open-source projects
+* learn a new programming language
 * get my homework done early 😅
 
 ![](https://github-profile-trophy.vercel.app/?username=poseidoncoder&theme=dracula)
