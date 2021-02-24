@@ -1,4 +1,4 @@
-## 👨‍💻 full-stack teen nerd and open source enthusiast
+## 👨‍💻 full-stack teen nerd and open source enthusiast ![](https://komarev.com/ghpvc/?username=poseidoncoder&style=flat-square)
 
 ## 🥅 goals for 2021
 
