@@ -1,6 +1,6 @@
 ## 👨‍💻 full-stack teen nerd and open source enthusiast ![](https://hit.yhype.me/github/profile?user_id=34260118)
 
-## 🥅 goals for 2021
+## 🥅 goals
 
 * contribute to more open-source projects
 * learn a new programming language
