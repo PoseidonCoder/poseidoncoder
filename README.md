@@ -6,7 +6,7 @@
 * learn a new programming language
 * get my homework done early 😅
 
-## Interests
+## 🧐 interests
 
 * linux
 * programming
