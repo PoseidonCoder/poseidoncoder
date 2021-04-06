@@ -1,4 +1,5 @@
-## 👨‍💻 full-stack teen nerd and open source enthusiast ![](https://hit.yhype.me/github/profile?user_id=34260118)
+# Hey <img width="35" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" />
+👨‍💻 full-stack teen nerd and open source enthusiast ![](https://hit.yhype.me/github/profile?user_id=34260118)
 
 ## 🥅 goals
 
