@@ -24,7 +24,7 @@
 
 ## 🤝 support me
 by donating to my crypto accounts
-### Ethereum: `0xCC27F23C05495a195fAD9f5d370A952cc44261d8`
+* ### Ethereum: 0xCC27F23C05495a195fAD9f5d370A952cc44261d8
 
 <br />
 <br />
