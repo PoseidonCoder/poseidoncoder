@@ -29,5 +29,8 @@ by donating to my crypto accounts
 <br />
 <br />
 
-![](https://github-profile-trophy.vercel.app/?username=poseidoncoder&no-border=true&theme=nord&no-frame=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=poseidoncoder&theme=nord&layout=compact&hide_border=true)
+<img width="768" src="https://github-profile-trophy.vercel.app/?username=poseidoncoder&no-border=true&theme=nord&no-frame=true" />
+<div style="display: inline-block">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseidoncoder&theme=nord&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=poseidoncoder&show_icons=true&theme=nord&hide_border=true" />
+</div>
