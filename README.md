@@ -9,9 +9,7 @@
 
 ## 🧐 interests
 
-* linux
-* programming
-* science-fiction
+I love Linux; programming is like an addiction to me; and my favorite genre is science-fiction.
 
 ## 📞 social media
 
