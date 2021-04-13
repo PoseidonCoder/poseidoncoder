@@ -23,10 +23,7 @@ I love Linux; programming is like an addiction to me; and my favorite genre is s
 
 ## 🤝 support me
 by donating to my crypto accounts
-* ### Ethereum: 0xCC27F23C05495a195fAD9f5d370A952cc44261d8
-
-<br />
-<br />
+* Ethereum: 0xCC27F23C05495a195fAD9f5d370A952cc44261d8
 
 <img width="768" src="https://github-profile-trophy.vercel.app/?username=poseidoncoder&no-border=true&theme=nord&no-frame=true" />
 <div style="display: inline-block">
