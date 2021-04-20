@@ -25,6 +25,16 @@ I love Linux; programming is like an addiction to me; and my favorite genre is s
 by donating to my crypto accounts
 * Ethereum: 0xCC27F23C05495a195fAD9f5d370A952cc44261d8
 
+## github stats
+
+<img width="768" src="https://github-profile-trophy.vercel.app/?username=poseidoncoder&no-border=true&theme=nord&no-frame=true" />
+<div style="display: inline-block">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseidoncoder&theme=nord&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=poseidoncoder&show_icons=true&theme=nord&hide_border=true" />
+</div>
+
+## wakatime stats
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,9 +118,3 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<img width="768" src="https://github-profile-trophy.vercel.app/?username=poseidoncoder&no-border=true&theme=nord&no-frame=true" />
-<div style="display: inline-block">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseidoncoder&theme=nord&layout=compact&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=poseidoncoder&show_icons=true&theme=nord&hide_border=true" />
-</div>
