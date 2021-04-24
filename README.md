@@ -11,6 +11,8 @@
 
 I love Linux; programming is like an addiction to me; and my favorite genre is science-fiction.
 
+## 👨‍💻 coding stats
+
 <details>
   <summary>github stats</summary>
 
