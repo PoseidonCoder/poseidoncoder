@@ -125,3 +125,4 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ## 🤝 support me
 by donating to my crypto accounts
 * Ethereum: 0xCC27F23C05495a195fAD9f5d370A952cc44261d8
+* Monero:   47b8BBeB59XUxHXYdM8h4vDaaaTktNnfQFdwitjq2PVbBvZZuRWMkovdshHRuPHYXjeLh2VSaQhZ3cT6AmqsoPVAACLKoVX
