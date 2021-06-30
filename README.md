@@ -112,6 +112,11 @@ TypeScript               2 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
+## 🤝 support me
+by donating to my crypto accounts
+* Ethereum: 0xCC27F23C05495a195fAD9f5d370A952cc44261d8
+* Monero:   47b8BBeB59XUxHXYdM8h4vDaaaTktNnfQFdwitjq2PVbBvZZuRWMkovdshHRuPHYXjeLh2VSaQhZ3cT6AmqsoPVAACLKoVX
+
 ## 📞 social media
 
 [<img width=25 align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png"/>](https://discord.bio/p/devposeidon)
@@ -121,8 +126,3 @@ TypeScript               2 repos             ██░░░░░░░░░�
 [<img width=25 align="left" src="assets/images/replit.png"/>](https://repl.it/@PowerCoder) 
 
 <br />
-
-## 🤝 support me
-by donating to my crypto accounts
-* Ethereum: 0xCC27F23C05495a195fAD9f5d370A952cc44261d8
-* Monero:   47b8BBeB59XUxHXYdM8h4vDaaaTktNnfQFdwitjq2PVbBvZZuRWMkovdshHRuPHYXjeLh2VSaQhZ3cT6AmqsoPVAACLKoVX
