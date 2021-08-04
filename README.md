@@ -27,13 +27,13 @@ I love Linux; programming is like an addiction to me; and my favorite genre is s
   <summary>wakatime stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 402 Contributions in the Year 2021
  > 
-> 📦 22.8 kB Used in Github's Storage 
+> 📦 22.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,7 +100,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PoseidonCoder/PoseidonCoder/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/08/2021
+ Last Updated on 04/08/2021
 <!--END_SECTION:waka-->
 </details>
 
