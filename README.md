@@ -31,7 +31,7 @@ I love Linux; programming is like an addiction to me; and my favorite genre is s
 
 **🐱 My GitHub Data** 
 
-> 🏆 402 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 23.1 kB Used in GitHub's Storage 
  > 
@@ -100,7 +100,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PoseidonCoder/PoseidonCoder/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/12/2021
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 </details>
 
