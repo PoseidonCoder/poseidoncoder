@@ -33,7 +33,7 @@ I love Linux; programming is like an addiction to me; and my favorite genre is s
 
 > 🏆 1 Contributions in the Year 2022
  > 
-> 📦 23.1 kB Used in GitHub's Storage 
+> 📦 23.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,17 +70,18 @@ Sunday       18 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   34 mins             ████████████░░░░░░░░░░░░░   50.67% 
-HTML                     33 mins             ████████████░░░░░░░░░░░░░   49.33%
+Python                   1 hr 6 mins         ████████████░░░░░░░░░░░░░   49.53% 
+HTML                     1 hr 4 mins         ████████████░░░░░░░░░░░░░   48.12% 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.0%
+VS Code                  2 hrs 14 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 8 mins         █████████████████████████   100.0%
+Unknown Project          2 hrs 14 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.0%
+Windows                  2 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
@@ -101,7 +102,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PoseidonCoder/PoseidonCoder/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2022 18:44:16 UTC
+ Last Updated on 29/01/2022 18:51:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
