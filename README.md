@@ -35,7 +35,7 @@ I love Linux; programming is like an addiction to me; and my favorite genre is s
 
 > 🏆 78 Contributions in the Year 2022
  > 
-> 📦 22.8 kB Used in GitHub's Storage 
+> 📦 22.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,18 +72,16 @@ Sunday       31 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   17 mins             █████████████████████░░░░   86.89% 
-HTML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.11%
+HTML                     7 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.0%
+VS Code                  7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-EvilDoorClient           17 mins             █████████████████████░░░░   86.89% 
-poseidoncoder.github.io  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.11%
+poseidoncoder.github.io  7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.0%
+Windows                  7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -104,7 +102,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PoseidonCoder/PoseidonCoder/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/05/2022 18:49:51 UTC
+ Last Updated on 01/06/2022 18:51:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
