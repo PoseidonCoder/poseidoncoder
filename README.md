@@ -33,13 +33,13 @@ I love Linux; programming is like an addiction to me; and my favorite genre is s
 
 **🐱 My GitHub Data** 
 
-> 🏆 78 Contributions in the Year 2022
+> 🏆 79 Contributions in the Year 2022
  > 
-> 📦 22.9 kB Used in GitHub's Storage 
+> 📦 23.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 34 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -72,16 +72,17 @@ Sunday       31 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-HTML                     7 mins              █████████████████████████   100.0%
+HTML                     10 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.0%
+VS Code                  10 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-poseidoncoder.github.io  7 mins              █████████████████████████   100.0%
+poseidoncoder.github.io  7 mins              █████████████████░░░░░░░░   67.8% 
+h33-lesson10-starter-file3 mins              ████████░░░░░░░░░░░░░░░░░   32.2%
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.0%
+Windows                  10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -102,7 +103,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PoseidonCoder/PoseidonCoder/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/06/2022 18:51:37 UTC
+ Last Updated on 03/06/2022 18:45:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
