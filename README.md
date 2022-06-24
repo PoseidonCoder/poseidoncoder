@@ -72,19 +72,16 @@ Sunday       31 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   23 mins             ███████████████████░░░░░░   77.12% 
-CSS                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mysite                   30 mins             █████████████████████████   99.75% 
-H33-11-starter-files     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -105,7 +102,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PoseidonCoder/PoseidonCoder/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/06/2022 18:50:16 UTC
+ Last Updated on 24/06/2022 18:49:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
