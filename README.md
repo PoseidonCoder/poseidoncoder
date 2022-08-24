@@ -72,20 +72,16 @@ Sunday       23 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Makefile                 40 mins             ██████████████░░░░░░░░░░░   56.05% 
-Docker                   26 mins             █████████░░░░░░░░░░░░░░░░   36.4% 
-Go                       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
-Pug                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-minerva                  1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -106,7 +102,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PoseidonCoder/PoseidonCoder/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2022 18:48:32 UTC
+ Last Updated on 24/08/2022 18:56:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
