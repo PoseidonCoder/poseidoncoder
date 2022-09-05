@@ -27,7 +27,7 @@ I love Linux; programming is like an addiction to me; and my favorite genre is s
   <summary>wakatime stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,7 +35,7 @@ I love Linux; programming is like an addiction to me; and my favorite genre is s
 
 > 🏆 132 Contributions in the Year 2022
  > 
-> 📦 27.2 kB Used in GitHub's Storage 
+> 📦 27.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,56 +43,6 @@ I love Linux; programming is like an addiction to me; and my favorite genre is s
  > 
 > 🔑 10 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
-🌆 Daytime    54 commits     ████████████░░░░░░░░░░░░░   49.09% 
-🌃 Evening    54 commits     ████████████░░░░░░░░░░░░░   49.09% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       29 commits     ██████░░░░░░░░░░░░░░░░░░░   26.36% 
-Tuesday      16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Wednesday    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-Thursday     13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
-Friday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-Saturday     19 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
-Sunday       23 commits     █████░░░░░░░░░░░░░░░░░░░░   20.91%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-Python                   2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.22% 
-Go                       2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   27.22% 
-Bash                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
-C#                       54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
-Makefile                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.37%
-
-🔥 Editors: 
-VS Code                  7 hrs 45 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-minerva                  3 hrs 53 mins       ████████████░░░░░░░░░░░░░   50.19% 
-SurveyMaster             2 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   38.02% 
-Scenes                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
-
-💻 Operating System: 
-WSL                      3 hrs 53 mins       ████████████░░░░░░░░░░░░░   50.19% 
-Windows                  3 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.81%
-
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -110,7 +60,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PoseidonCoder/PoseidonCoder/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:47:50 UTC
+ Last Updated on 05/09/2022 18:52:30 UTC
 <!--END_SECTION:waka-->
 </details>
 
