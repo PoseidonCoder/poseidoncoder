@@ -72,20 +72,16 @@ Sunday       23 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   33 mins             ██████████████░░░░░░░░░░░   57.19% 
-HTML                     19 mins             ████████░░░░░░░░░░░░░░░░░   34.04% 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.13% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SurveyMaster             58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -106,7 +102,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PoseidonCoder/PoseidonCoder/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/09/2022 18:55:15 UTC
+ Last Updated on 11/09/2022 18:52:16 UTC
 <!--END_SECTION:waka-->
 </details>
 
