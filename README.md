@@ -29,7 +29,7 @@ I love Linux; programming is like an addiction to me; and my favorite genre is s
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -102,7 +102,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PoseidonCoder/PoseidonCoder/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/10/2022 18:55:36 UTC
+ Last Updated on 03/10/2022 19:00:30 UTC
 <!--END_SECTION:waka-->
 </details>
 
