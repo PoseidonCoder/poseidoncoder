@@ -106,11 +106,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-## 🤝 support me
-by donating to my crypto accounts
-* Ethereum: `0xCC27F23C05495a195fAD9f5d370A952cc44261d8`
-* Monero:   `47b8BBeB59XUxHXYdM8h4vDaaaTktNnfQFdwitjq2PVbBvZZuRWMkovdshHRuPHYXjeLh2VSaQhZ3cT6AmqsoPVAACLKoVX`
-
 ## 📞 social media
 
 [<img width=31 align="left" src="https://i.pinimg.com/originals/19/7b/36/197b365922d1ea3aa1a932ff9bbda4a6.png"/>](https://www.youtube.com/channel/UCb0JVK0TmpYueYTx5Te0fUw)
